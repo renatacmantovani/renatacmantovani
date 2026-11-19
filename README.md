@@ -14,7 +14,3 @@
 <a href="https://www.linkedin.com/in/renatacmantovani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="mailto:renatacmantovani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renatacmantovani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renatacmantovani&layout=compact&langs_count=8&theme=algolia">
-</div>
