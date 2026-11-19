@@ -4,7 +4,7 @@
   <samp>
     Hello there! I'm <b>Renata</b>, an Information Systems Student from Brazil.</br>
     <br> I graduated in Social Sciences, and my fascination with human beings has now crossed over into technology.</br> 
-    <br>Currently I enjoy studying data and turning unstructured information into actionable business insights.
+    <br> You can connect with me in those buttons below (: </br>
   </samp><br>
 </samp>
   </p>
